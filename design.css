@@ -123,7 +123,7 @@ main p {
   color: #555;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   ul.link,
   .action_btn {
